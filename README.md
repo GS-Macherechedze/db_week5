@@ -26,7 +26,16 @@ This demonstrates the cconnection of MySQL database and Node.js to create a simp
    const app = express()
 
    
-   // your code goes here
+   // Question 1 goes here
+
+
+   // Question 2 goes here
+
+
+   // Question 3 goes here
+
+
+   // Question 4 goes here
 
    
 
@@ -59,7 +68,7 @@ Configure the ```server.js``` file to access the credentials in the ```.env``` t
 
 <br>
 
-## Retrieve all patients
+## 1. Retrieve all patients
 Create a ```GET``` endpoint that retrieves all patients and displays their:
 - ```patient_id```
 - ```first_name```
@@ -68,7 +77,7 @@ Create a ```GET``` endpoint that retrieves all patients and displays their:
 
 <br>
 
-## Retrieve all providers
+## 2. Retrieve all providers
 Create a ```GET``` endpoint that displays all providers with their:
 - ```first_name```
 - ```last_name```
@@ -76,12 +85,12 @@ Create a ```GET``` endpoint that displays all providers with their:
 
 <br>
 
-## Filter patients by First Name
+## 3. Filter patients by First Name
 Create a ```GET``` endpoint that retrieves all patients by their first name
 
 <br>
 
-## Retrieve all providers by their specialty
+## 4. Retrieve all providers by their specialty
 Create a ```GET``` endpoint that retrieves all providers by their specialty
 
 <br>
